@@ -5,8 +5,8 @@
   Давайте создавать что-то классное вместе 🚀
 </p>
 
-<h2 align="center">🐍 Обо мне</h2>
-<p align="center">
+<h2>🐍 Обо мне</h2>
+<p>
   Я — Python-разработчик, которому нравится превращать идеи в работающий код.<br>
   Пишу скрипты, бэкенды и ботов, автоматизирую рутину и оптимизирую процессы.<br>
   Люблю, когда код не только работает, но и выглядит красиво.
@@ -20,13 +20,20 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h2 align="center">📊 Статистика</h2>
+<h2>📊 Статистика</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kirillysz&show_icons=true&theme=dark&hide_border=true&card_width=300" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillysz&layout=compact&theme=dark&hide_border=true&card_width=300" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillysz&theme=github_dark" alt="Profile Details" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kirillysz&theme=github_dark" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kirillysz&theme=github_dark" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=kirillysz&theme=github_dark" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirillysz&theme=github_dark" alt="Productive Time" />
 </p>
 
-<h2 align="center">📫 Контакты</h2>
+<h2>📫 Связаться со мной</h2>
 <p align="center">
   <a href="https://t.me/oxyzdev">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
