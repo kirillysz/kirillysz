@@ -16,7 +16,10 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=kirillysz&theme=buefy-dark&hide_border=true" alt="GitHub Streak" /></a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=kirillysz&theme=onedark&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillysz&show_icons=true&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillysz&layout=compact&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 📫 Связаться со мной
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oxyzdev)
