@@ -1,16 +1,27 @@
-## Hi there 👋
+<h1 align="center">👋 Добро пожаловать!</h1>
+<p align="center">
+  Рад видеть вас здесь.<br>
+  Изучайте мои проекты и идеи.<br>
+  Давайте создавать что-то классное вместе 🚀
+</p>
 
-<!--
-**kirillysz/kirillysz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐍 Обо мне
+Я - Python-разработчик, которому нравится превращать идеи в работающий код.  
+Пишу скрипты, бэкенды и ботов, автоматизирую рутину и оптимизирую процессы.  
+Люблю, когда код не только работает, но и выглядит красиво.
 
-Here are some ideas to get you started:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub Streak](https://streak-stats.demolab.com?user=kirillysz&theme=dark&hide_border=true&card_width=300)](https://git.io/streak-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillysz&show_icons=true&theme=dark&hide_border=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kirillysz&layout=compact&theme=dark&hide_border=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+## 📫 Связаться со мной
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/oxyzdev)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/678066730974576644)
