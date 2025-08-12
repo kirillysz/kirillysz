@@ -5,8 +5,8 @@
   Давайте создавать что-то классное вместе 🚀
 </p>
 
-<h2>🐍 Обо мне</h2>
-<p>
+<h2 align="center">🐍 Обо мне</h2>
+<p align="center">
   Я — Python-разработчик, которому нравится превращать идеи в работающий код.<br>
   Пишу скрипты, бэкенды и ботов, автоматизирую рутину и оптимизирую процессы.<br>
   Люблю, когда код не только работает, но и выглядит красиво.
@@ -20,14 +20,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kirillysz)](https://github.com/anuraghazra/github-readme-stats)
-
+<h2 align="center">📊 Статистика</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kirillysz&show_icons=true&theme=dark&hide_border=true&card_width=300" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirillysz&layout=compact&theme=dark&hide_border=true&card_width=300" alt="Top Languages" />
 </p>
 
-<h2>📫 Связаться со мной</h2>
+<h2 align="center">📫 Контакты</h2>
 <p align="center">
   <a href="https://t.me/oxyzdev">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
