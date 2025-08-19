@@ -33,7 +33,7 @@
 
 <h2>📫 Связаться со мной</h2>
 <p align="center">
-  <a href="https://t.me/oxyzdev">
+  <a href="https://t.me/ravenhash">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
