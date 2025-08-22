@@ -10,12 +10,6 @@
   Я - Python-разработчик, которому нравится превращать идеи в работающий код.<br>
   Пишу скрипты, бэкенды и ботов, автоматизирую рутину и оптимизирую процессы.<br>
   Люблю, когда код не только работает, но и выглядит красиво.
-  <br><br>
-  Написал:
-  <ul>
-    <li><a href="https://github.com/kirillysz/marzban-client">marzban-client</a></li>
-    <li><a href="https://github.com/kirillysz/openrouterapi">openrouterapi</a></li>
-  </ul>
 </p>
 
 
