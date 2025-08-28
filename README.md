@@ -1,19 +1,21 @@
-<h1 align="center">👋 Добро пожаловать!</h1>
-<p align="center">
-  Рад видеть вас здесь.<br>
-  Изучайте мои проекты и идеи.<br>
-  Давайте создавать что-то классное вместе 🚀
-</p>
+# 👋 Welcome!
 
-<h2>🐍 Обо мне</h2>
-<p>
-  Я - Python-разработчик, которому нравится превращать идеи в работающий код.<br>
-  Пишу скрипты, бэкенды и ботов, автоматизирую рутину и оптимизирую процессы.<br>
-  Люблю, когда код не только работает, но и выглядит красиво.
-</p>
+Glad to see you here.  
+Explore my projects and ideas.  
+Let's create something awesome together 🚀
 
+---
 
-<h2>🛠 Навыки</h2>
+## 🐍 About Me
+
+I am a Python developer who loves turning ideas into working code.  
+I write scripts, backends, and bots, automate routines, and optimize processes.  
+I enjoy when code not only works but also looks clean and elegant.
+
+---
+
+## 🛠 Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
@@ -22,7 +24,10 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </p>
 
-<h2>📊 Статистика</h2>
+---
+
+## 📊 Statistics
+
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kirillysz&theme=dark" alt="Profile Details" />
 </p>
@@ -31,10 +36,16 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kirillysz&theme=dark&utcOffset=8" alt="Productive Time" />
 </p>
 
+---
 
-<h2>📫 Связаться со мной</h2>
+## 📫 Contact Me
+
 <p align="center">
-  <a href="https://t.me/ravenhash">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
+  [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/encryptthis)
 </p>
+
+---
+
+## 💖 Support Me
+
+- **TON:** `crystalwave.ton`
