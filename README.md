@@ -38,5 +38,9 @@
 </p>
 
 <h2>💖 Support Me</h2>
-- TON: `crystalwave.ton`  
+<p align="center">
+  <a href="https://tonviewer.com/crystalwave.ton">
+  <img src="https://img.shields.io/badge/TON-000000?style=for-the-badge&logo=ton&logoColor=white" alt="TON Wallet" />
+</a>
+</p>
 </p>
