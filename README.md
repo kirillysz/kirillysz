@@ -32,7 +32,7 @@
 
 <h2>📫 Contact Me</h2>
 <p align="center">
-  <a href="https://t.me/encryptthis">
+  <a href="https://t.me/getenvos">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </p>
